@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"emmet.excludeLanguages": [
+		"markdown"
+	],
+	"emmet.includeLanguages": {
+		"jekyll": "html",
+		"scss": "css"
+	}
+}
