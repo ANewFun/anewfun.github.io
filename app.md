@@ -3,7 +3,8 @@ layout: page
 title: 软件推荐
 permalink: /app/
 ---
-
+# PC 软件推荐
+## 我喜欢的软件
 | 类别 | 推荐 |
 | :-: | :-: |
 | 浏览器 | [Chrome](https://www.google.cn/intl/zh-CN/chrome/) (国内可访问) <br>[Microsoft Edge](https://www.microsoft.com/zh-cn/edge) |
